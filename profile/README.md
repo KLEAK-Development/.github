@@ -24,6 +24,6 @@ Learn more about our open-source initiatives
 
 Interested in sponsoring our open-source efforts or need expert Dart/Flutter development?
 
-Explore partnership opportunities see our sponsor page.
+Explore partnership opportunities see our [sponsor page](https://github.com/sponsors/KLEAK-Development).
 
 KLEAK Development: Crafting the future of Dart and Flutter, one line of code at a time.
