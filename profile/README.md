@@ -7,7 +7,6 @@ KLEAK Development specializes in robust Dart server applications and innovative 
 
 - Develop and maintain open-source Dart and Flutter projects
 - Create high-performance, scalable Dart server applications
-- Innovate in the blockchain space with our MultiversX SDK for Dart/Flutter
 - Provide expert Dart/Flutter development services
 
 ## 🌟 Our Open Source Mission
@@ -17,8 +16,7 @@ Learn more about our open-source initiatives
 
 ## 🛠️ Key Projects
 
-- Top shelf: Helpers to write backend in Dart with shelf
-- MultiversX SDK: Dart/Flutter SDK for MultiversX blockchain
+- Spark Framework: A lightweight, isomorphic web framework for Dart. It allows you to build modern web applications using a single language for both server and client.
 
 ## 🤝 Work With Us
 
